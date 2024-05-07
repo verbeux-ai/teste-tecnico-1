@@ -12,8 +12,8 @@ Desenvolver um chatbot usando a plataforma Verbeux que funcione como um canal ce
 - Você pode escolher entre duas abordagens para a construção do chatbot:
   - Abordagem por Fluxo: Utilize blocos, webhooks, contextos, intenções e entidades para construir um chatbot que interaja de forma estruturada.
   - Abordagem Generativa: Utilize gatilhos e a habilidade de adquirir conhecimento a partir de documentos para permitir que o chatbot responda de forma mais dinâmica e abrangente.
-  - O código deve ser escrito em uma das seguintes linguagens: JavaScript, Go ou Python. O uso de frameworks é permitido e encorajado.
-  - Todo o código deve ser escrito em inglês.
+- O código deve ser escrito em uma das seguintes linguagens: JavaScript, Go ou Python. O uso de frameworks é permitido e encorajado.
+- Todo o código deve ser escrito em inglês.
 
 Entregáveis:
 - Código-fonte completo hospedado em um repositório Git público (por exemplo, GitHub).
